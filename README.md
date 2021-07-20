@@ -11,13 +11,15 @@ O *roadmap* em questão mostra os conhecimentos que um cientista de dados deve d
 
 Considere este repositório como uma referência em português para o assunto. Não é intuito dos autores, portanto, impor uma ordem correta e fixa de estudos/domínio de conhecimento.
 
-Cada tópico do índice mostrado a seguir estará *linkado* com as pastas do diretório à medida que novos conteúdos forem adicionados. Cada pasta possui uma explicação de cada "linha de trem" da imagem original e código. Por exemplo, a linha 1-lilás, tem todo o seu conteúdo explicado na pasta "01_Fundamentos", bem como código para cada subtópico de Fundamentos.
+Cada seção do índice ("estação" do mapa) mostrada a seguir estará *linkada* às pastas do diretório à medida que novos conteúdos forem adicionados. Cada pasta possui uma explicação de cada "linha de trem" da imagem original e código. Por exemplo, a seção 1 (linha 1-lilás), tem todo o seu conteúdo explicado na pasta "01_Fundamentos", bem como código para cada tópico de Fundamentos.
 
 Observação: repare que existe uma "baldeação" entre as linhas 2-azul e 3-verde. O aprendizado de análise exploratória de dados (na linha azul) pode ser obtido juntamente com o de programação (linha verde).
 
+**--->Texto longo abaixo<---**
+
 ## Índice
 
-1. Fundamentos (5% do conhecimento de um cientista de dados)
+1. [Fundamentos (5% do conhecimento de um cientista de dados)](https://github.com/Andygrammer/DS_RoadMap/tree/main/01_Fundamentos)
     1. Fundamentos sobre matrizes e álgebra linear
     2. Funções hash, árvore binária, O(n)
     3. Álgebra relacional, banco de dados básico
@@ -68,7 +70,30 @@ Observação: repare que existe uma "baldeação" entre as linhas 2-azul e 3-ver
     29. Distância Euclidiana
 3. Programação (15%)
     1. Instalação de pacotes
+    2. Análise fatorial
+    3. Funções
+    4. Manipulação de Data Frames
+    5. Subconjuntos de dados
+    6. Leitura de dados brutos (*raw data*)
+    7. Leitura de dados no formato *CSV*
+    8. Data Frames
+    9. Listas
+    10. Fatores
+    11. Arrays
+    12. Matrizes
+    13. Vetores
+    14. Sistema RapidMiner
+    15. Variáveis
+    16. Sistema IBM SPSS
+    17. Expressões
+    18. Linguagem R básica
+    19. Instalação do R/R Studio
+    20. Trabalhando com Excel
+    21. Linguagem Python básica
+4. Aprendizado de Máquina (50%)
+    1. O que é aprendizado de máquina
     2. 
+
 
 
 
