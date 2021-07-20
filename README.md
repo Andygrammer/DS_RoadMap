@@ -1,5 +1,6 @@
 # DS_RoadMap
 
+## 1. Definições Preliminares
 Este é um repositório de código para os principais conhecimentos concernentes à área de ciência de dados. O seu conteúdo é baseado em duas principais referências:
 
 1. "Data Scientist Roadmap", de [Swami Chandrasekaran](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/).
@@ -14,6 +15,10 @@ Considere este repositório como uma referência em português para o assunto. N
 Cada seção do índice ("estação" do mapa) mostrada a seguir estará *linkada* às pastas do diretório à medida que novos conteúdos forem adicionados. Cada pasta possui uma explicação de cada "linha de trem" da imagem original e código. Por exemplo, a seção 1 (linha 1-lilás), tem todo o seu conteúdo explicado na pasta "01_Fundamentos", bem como código para cada tópico de Fundamentos.
 
 Observação: repare que existe uma "baldeação" entre as linhas 2-azul e 3-verde. O aprendizado de análise exploratória de dados (na linha azul) pode ser obtido juntamente com o de programação (linha verde).
+
+## 2. Compartilhamento do Repositório
+
+Sinta-se à vontade para baixar o conteúdo deste rep. e/ou contribuir com este projeto de alguma forma. Toda interação que pudermos fazer será bem-vinda! 🙂
 
 **--->Texto longo abaixo<---**
 
@@ -92,7 +97,41 @@ Observação: repare que existe uma "baldeação" entre as linhas 2-azul e 3-ver
     21. Linguagem Python básica
 4. Aprendizado de Máquina (50%)
     1. O que é aprendizado de máquina
-    2. 
+    2. Variáveis numéricas
+    3. Variáveis categóricas
+    4. Aprendizado supervisionado
+    5. Aprendizado não-supervisionado
+    6. Conceitos, entradas (*inputs*) e atributos
+    7. Dados de treinamento e teste
+    8. Classificador
+    9. Predição
+    10. Lift
+    11. Sobreajuste (*overfitting*)
+    12. Viés e variância
+    13. Árvores e classificação
+    14. Taxa de classificação
+    15. Árvores de decisão
+    16. Boosting
+    17. Classificadores Naive Bayes
+    18. K-vizinhos mais próximos (*KNN*)
+    19. Regressão logística
+    20. Regressão com ranking
+    21. Regressão linear
+    22. Regressão com Perceptron
+    23. Clustering hierárquico
+    24. Clustering com K-means
+    25. Redes Neurais Aritificiais
+    26. Análise de sentimento
+    27. Filtragem colaborativa
+    28. Tagging
+5. Mineração de textos / Processamento de Língua Natural (PLN) (50%)
+    1. Mapeamento de vocabulário
+    2. Classificação de textos
+    3. Usando o NLTK (*Natural Language Toolkit*)
+    4. Usando o Weka
+    5. Usando o Apache Mahout
+    6. Extração de características (*features*)
+    7. 
 
 
 
