@@ -23,9 +23,7 @@ São 10 linhas de trem (seções) e mais de 200 estações (tópicos de conhecim
 - Linha 9-lilás:  *Munging* de dados;
 - Linha 10-marrom: Caixa de ferramentas.
 
-Considere este repositório como uma referência em português para o assunto. Não é intuito dos autores, portanto, impor uma ordem direta e fixa de estudos/domínio de conhecimento.
-
-Cada seção do índice ("linha de trem" do mapa) mostrada a seguir estará *linkada* às pastas do diretório à medida que novos conteúdos forem adicionados. Cada pasta possui uma explicação de cada "linha de trem" da imagem original e código. Por exemplo, a seção 1 (linha 1-roxa), tem todo o seu conteúdo explicado na pasta "01_Fundamentos", bem como código para cada tópico (estação de trem) de Fundamentos.
+Considere este repositório como uma referência em português para o assunto. Não é intuito dos autores, portanto, impor uma ordem direta e fixa de estudos/domínio de conhecimento. Note que o conteúdo aqui listado é muito denso, praticamente impossível de dominar em anos de estudo. Busque aproveitar o básico sobre cada assunto e se aprofundar naqueles que mais te interessam ou que têm a ver com a carreira que você almeja como cientista de dados. Nada o impede de revisitar esse guia para aprimorar o seu guarda-chuva de conhecimentos de cientista de dados.
 
 ## 2. Observações
 
@@ -37,13 +35,15 @@ Cada seção do índice ("linha de trem" do mapa) mostrada a seguir estará *lin
 
 - A linha-7 rosa também está representada de maneira independente. Note, neste caso, que *big data* é uma área muito grande que até mesmo extrapola o conhecimento necessário para um cientista de dados. Por exemplo, engenheiros de dados realizam *ETL* (extração, transformação e carregamento) sobre dados do universo *big data*. Dessa forma, veja que, ao concluir esta etapa, o aspirante a cientista de dados obtém estimados 60% do conhecimento necessário. *Nota deste autor: obtenha o conhecimento básico sobre as estações dessa linha. Cada estação corresponde a assuntos muito vastos que escapam do conhecimento de um cientista de dados, atingindo o espectro do conhecimento de um engenheiro de dados.*
 
-- As linhas 8-esmeralda e 9-lilás possuem uma baldeação entre si. Ambas as linhas se referem a processos importantes relacionados à manipulação de dados.
+- As linhas 8-esmeralda e 9-lilás possuem uma baldeação entre si e compreendem 80% do conhecimento do cientista de dados. Ambas as linhas se referem a processos importantes relacionados à manipulação de dados muito utilizadas como na etapa de pré-processamento: ingestão e *munging*.
 
 ## 3. Compartilhamento do Repositório
 
 Sinta-se à vontade para baixar o conteúdo deste rep. e/ou contribuir com este projeto de alguma forma. Toda interação que pudermos fazer será bem-vinda! 🙂
 
 **--->Texto longo abaixo<---**
+
+Cada seção do índice ("linha de trem" do mapa) mostrada a seguir estará *linkada* às pastas do diretório à medida que novos conteúdos forem adicionados. Cada pasta possui uma explicação de cada "linha de trem" da imagem original e código. Por exemplo, a seção 1 (linha 1-roxa), tem todo o seu conteúdo explicado na pasta "01_Fundamentos", bem como código para cada tópico (estação de trem) de Fundamentos.
 
 ## Índice
 
@@ -203,8 +203,40 @@ Sinta-se à vontade para baixar o conteúdo deste rep. e/ou contribuir com este 
 8. Ingestão de dados (80%)
     1. Resumo sobre formatos de dados
     2. Descoberta de dados
-    3. 
-
-
+    3. Fontes de dados e aquisição de dados
+    4. Integração de dados
+    5. Fusão de dados
+    6. Transformação e enriquecimento
+    7. Levantamento de dados
+    8. Google OpenRefine
+    9. Quantos dados?
+    10. Usando *ETL* (extração, transformação e carregamento)
+9. *Munging* de dados (80%)
+    1. Redução de dimensionalidade e redução da numerosidade
+    2. Normalização
+    3. Higienização de dados (*data scrubbing*)
+    4. Lidando com valores faltantes (*missing values* )
+    5. Estimadores imparciais
+    6. *Binning* de dados (*binning sparse values*)
+    7. Extração de características (*features*)
+    8. Eliminação de ruído
+    9. Amostragem
+    10. Amostragem estratificada
+    11.  Análise de Componentes Principais (ACP, ou *PCA*)
+10. Caixa de ferramentas (100%)
+    1. Analysis ToolPak, do Excel
+    2. Java, Python
+    3. R, R-Studio, Rattle
+    4. Weka, Knime, RapidMiner
+    5. Hadoop (distribuição à sua escolha)
+    6. Spark, Storm
+    7. Flume, Scibe, Chukwa
+    8. Nutch, Talend, Scraperwiki
+    9. Webscraper, Flume, Sqoop
+    10. tm, RWeka, NLTK
+    11. RHIPE
+    12. D3.js, ggplot2, Shiny
+    13. IBM Languageware
+    14. Cassandra, MongoDB
 
 
