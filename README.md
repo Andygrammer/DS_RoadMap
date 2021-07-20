@@ -25,7 +25,7 @@ São 10 linhas de trem (seções) e 181 estações (tópicos de conhecimento):
 
 Considere este repositório como uma referência em português para o assunto. Não é intuito dos autores, portanto, impor uma ordem direta e fixa de estudos/domínio de conhecimento. Note que o conteúdo aqui listado é muito denso, praticamente impossível de dominar em anos de estudo. Busque aproveitar o básico sobre cada assunto e se aprofundar naqueles que mais te interessam ou que têm a ver com a carreira que você almeja como cientista de dados. Nada o impede de revisitar esse guia para aprimorar o seu guarda-chuva de conhecimentos de cientista de dados.
 
-## 2. Observações
+## 2. Observações Sobre o Guia
 
 - Repare que existe uma "baldeação" entre as linhas 2-azul e 3-verde. O aprendizado de análise exploratória de dados (na linha azul) pode ser obtido juntamente com o de programação (linha verde).
 
@@ -37,13 +37,19 @@ Considere este repositório como uma referência em português para o assunto. N
 
 - As linhas 8-esmeralda e 9-lilás possuem uma baldeação entre si e compreendem 80% do conhecimento do cientista de dados. Ambas as linhas se referem a processos importantes relacionados à manipulação de dados muito utilizadas como na etapa de pré-processamento: ingestão e *munging*.
 
-## 3. Compartilhamento do Repositório
+## 3. O arquivo TODO.md
+
+O arquivo *TODO.md* lista ideias que colaboradores deste repositório podem colocar em prática. Caso desejar concretizar alguma ideia, por favor, faça um fork deste repositório e pull requests de seu trabalho realizado. Obrigado! 👍
+
+## 4. Compartilhamento do Repositório
 
 Sinta-se à vontade para baixar o conteúdo deste rep. e/ou contribuir com este projeto de alguma forma. Toda interação que pudermos fazer será bem-vinda! 🙂
 
+## 5. Organização do Repositório e Índice
+
 **--->Texto longo abaixo<---**
 
-Cada seção do índice ("linha de trem" do mapa) mostrada a seguir estará *linkada* às pastas do diretório à medida que novos conteúdos forem adicionados. Cada pasta possui uma explicação de cada "linha de trem" da imagem original e código. Por exemplo, a seção 1 (linha 1-roxa), tem todo o seu conteúdo explicado na pasta "01_Fundamentos", bem como código para cada tópico (estação de trem) de Fundamentos.
+Cada seção do índice (linha de trem do mapa) mostrada a seguir estará *linkada* às pastas do diretório à medida que novos conteúdos forem adicionados. Cada pasta possui uma explicação de cada linha de trem da imagem original e código. Por exemplo, a seção 1 (linha 1-roxa), tem todo o seu conteúdo explicado na pasta "01_Fundamentos", bem como código para cada tópico (estação de trem) de Fundamentos.
 
 ## Índice
 
@@ -75,7 +81,7 @@ Cada seção do índice ("linha de trem" do mapa) mostrada a seguir estará *lin
     6. Teoria da probabilidade
     7. Teorema Bayes
     8. Variáveis aleatórias
-    9. Função Fistribuição Acumulada (FDA)
+    9. Função Distribuição Acumulada (FDA)
     10. Distribuições contínuas (Normal, Poisson, Gaussiana)
     11. Distorção
     12. ANOVA
@@ -143,7 +149,7 @@ Cada seção do índice ("linha de trem" do mapa) mostrada a seguir estará *lin
     22. Regressão com Perceptron
     23. Clustering hierárquico
     24. Clustering com K-means
-    25. Redes Neurais Aritificiais
+    25. Redes Neurais Artificiais
     26. Análise de sentimento
     27. Filtragem colaborativa
     28. Tagging
@@ -167,7 +173,7 @@ Cada seção do índice ("linha de trem" do mapa) mostrada a seguir estará *lin
     1. Exploração de dados em R (histograma, diagrama de caixa, etc.)
     2. Visualização *uni*, *bi* e multivariada de dados
     3. Pacote ggplot2
-    4. Histograma e gráfico de pizza (visualização *univariada*)
+    4. Histograma e gráfico de pizza (visualização *uni variada*)
     5. Árvore e mapa de árvore
     6. Gráfico de dispersão (vis. *bivariada*)
     7. Gráfico de linhas (vis. *bivariada*)
