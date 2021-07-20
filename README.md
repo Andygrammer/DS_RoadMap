@@ -6,17 +6,25 @@ Este é um repositório de código para os principais conhecimentos concernentes
 1. "Data Scientist Roadmap", de [Swami Chandrasekaran](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/).
 2. Repositório para o *roadmap* anterior, de [MrMimic](https://github.com/MrMimic/data-scientist-roadmap).
 
-O *roadmap* em questão mostra os conhecimentos que um cientista de dados deve desenvolver ao longo de sua carreira, como um guia de linhas de trem, vide figura abaixo:
+O *roadmap* em questão mostra os conhecimentos que um aspirante a cientista de dados deve desenvolver ao longo do tempo, como um guia de linhas de trem, vide figura abaixo:
 
 ![](https://camo.githubusercontent.com/b6482a1fcf61b0f1b479c9f129b00e09ffb100026db15502b351b083f4f5fd3f/687474703a2f2f6e6972766163616e612e636f6d2f74686f75676874732f77702d636f6e74656e742f75706c6f6164732f323031332f30372f526f6164546f44617461536369656e74697374312e706e67)
 
-Considere este repositório como uma referência em português para o assunto. Não é intuito dos autores, portanto, impor uma ordem correta e fixa de estudos/domínio de conhecimento.
+Considere este repositório como uma referência em português para o assunto. Não é intuito dos autores, portanto, impor uma ordem direta e fixa de estudos/domínio de conhecimento.
 
-Cada seção do índice ("estação" do mapa) mostrada a seguir estará *linkada* às pastas do diretório à medida que novos conteúdos forem adicionados. Cada pasta possui uma explicação de cada "linha de trem" da imagem original e código. Por exemplo, a seção 1 (linha 1-lilás), tem todo o seu conteúdo explicado na pasta "01_Fundamentos", bem como código para cada tópico de Fundamentos.
+Cada seção do índice ("linha de trem" do mapa) mostrada a seguir estará *linkada* às pastas do diretório à medida que novos conteúdos forem adicionados. Cada pasta possui uma explicação de cada "linha de trem" da imagem original e código. Por exemplo, a seção 1 (linha 1-lilás), tem todo o seu conteúdo explicado na pasta "01_Fundamentos", bem como código para cada tópico (estação de trem) de Fundamentos.
 
-Observação: repare que existe uma "baldeação" entre as linhas 2-azul e 3-verde. O aprendizado de análise exploratória de dados (na linha azul) pode ser obtido juntamente com o de programação (linha verde).
+## 2. Observações
 
-## 2. Compartilhamento do Repositório
+- Repare que existe uma "baldeação" entre as linhas 2-azul e 3-verde. O aprendizado de análise exploratória de dados (na linha azul) pode ser obtido juntamente com o de programação (linha verde).
+
+- A linha 4-oliva se conecta à linha 5-laranja, compreendendo 50% do conhecimento do cientista de dados. Note que a linha 5 é um aprofundamento/especialização de uma área maior. Ou seja, mineração de textos e processamento de língua natural estão compreendidas na área aprendizado de máquina.
+
+- Note que a linha 6-vermelha não está conectada à nenhuma outra linha. Trata-se do conhecimento de visualização de dados, necessário para apresentar informações importantes durante o trabalho do cientista de dados. (Há casos em que a responsabilidade da visualização dos dados fica a cargo do analista de dados.) Note, também, que a visualização corresponde a 40% do conhecimento de um cientista de dados.
+
+- A linha-7 rosa também está representada de maneira independente. Note, neste caso, que *big data* é uma área muito grande que até mesmo extrapola o conhecimento necessário para um cientista de dados. Por exemplo, engenheiros de dados realizam *ETL* (extração, transformação e carregamento) sobre dados do universo *big data*. Dessa forma, veja que, ao concluir esta etapa, o aspirante a cientista de dados obtém estimados 60% do conhecimento necessário. *Nota deste autor: obtenha o conhecimento básico sobre as estações dessa linha. Cada estação corresponde a assuntos muito vastos que escapam do conhecimento de um cientista de dados, atingindo o espectro do conhecimento de um engenheiro de dados.*
+
+## 3. Compartilhamento do Repositório
 
 Sinta-se à vontade para baixar o conteúdo deste rep. e/ou contribuir com este projeto de alguma forma. Toda interação que pudermos fazer será bem-vinda! 🙂
 
@@ -36,7 +44,7 @@ Sinta-se à vontade para baixar o conteúdo deste rep. e/ou contribuir com este 
     9. Fragmentação
     10. OLAP
     11. Modelos de dados multidimensionais
-    12. ETL
+    12. *ETL* (extração, transformação e carregamento)
     13. Relatórios vs. BI vs. Analytics
     14. JSON e XML
     15. NoSQL
@@ -131,9 +139,52 @@ Sinta-se à vontade para baixar o conteúdo deste rep. e/ou contribuir com este 
     4. Usando o Weka
     5. Usando o Apache Mahout
     6. Extração de características (*features*)
-    7. 
-
-
+    7. Análise de marketing
+    8. Regras de associação
+    9. Máquinas de Vetores de Suporte (MVS, ou *SVM*)
+    10. Frequência de termos e peso
+    11. Matriz de documentos e termos
+    12. *UIMA* (arquitetura para gerenciamento de informações não estruturadas)
+    13. Análise de textos
+    14. Reconhecimento de Entidades Nomeadas (REN, ou *NER*)
+    15. Córpus
+6. Visualização (40%)
+    1. Exploração de dados em R (histograma, diagrama de caixa, etc.)
+    2. Visualização *uni*, *bi* e multivariada de dados
+    3. Pacote ggplot2
+    4. Histograma e gráfico de pizza (visualização *univariada*)
+    5. Árvore e mapa de árvore
+    6. Gráfico de dispersão (vis. *bivariada*)
+    7. Gráfico de linhas (vis. *bivariada*)
+    8. Gráficos espaciais
+    9. Gráficos de pesquisa
+    10. Linha do tempo
+    11. Árvore de decisão
+    12. Biblioteca D3.js
+    13. Ferramenta InfoVis
+    14. Ferramenta IBM Many Eyes
+    15. Ferramenta Tableau
+7. *Big Data* (60%)
+    1. MongoDB, Neo4j
+    2. Banco de dados Cassandra
+    3. Pacote rmr
+    4. Rhadoop, RHIPE
+    5. Storm: Hadoop em tempo real
+    6. Zookeeper, Avro
+    7. Usando o Mahout
+    8. Scribe, Chukwa para Weblog
+    9. DWH com Hive
+    10. SQL com Pig
+    11. Flume, Scribe para dados não-estruturados
+    12. Sqoop: carregando dados no HDFS
+    13. Programação MIR
+    14. Rastreamento de trabalho e tarefa (*job and task tracker*)
+    15. Nodos de nome e dados
+    16. Instalação/configuração do Hadoop (IBM/Cloudera/HortonWorks)
+    17. Princípios de replicação de dados
+    18. HDFS (Sistema de Arquivos Distribuído do Hadoop)
+    19. Componentes do Hadoop
+    20. Fundamentos de MapReduce
 
 
 
