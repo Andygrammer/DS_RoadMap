@@ -10,9 +10,22 @@ O *roadmap* em questão mostra os conhecimentos que um aspirante a cientista de 
 
 ![](https://camo.githubusercontent.com/b6482a1fcf61b0f1b479c9f129b00e09ffb100026db15502b351b083f4f5fd3f/687474703a2f2f6e6972766163616e612e636f6d2f74686f75676874732f77702d636f6e74656e742f75706c6f6164732f323031332f30372f526f6164546f44617461536369656e74697374312e706e67)
 
+São 10 linhas de trem (seções) e mais de 200 estações (tópicos de conhecimento):
+
+- Linha 1-roxa: Fundamentos;
+- Linha 2-azul: Estatística;
+- Linha 3-verde: Programação;
+- Linha 4-oliva: Aprendizado de máquina;
+- Linha 5-laranja: Mineração de textos e Processamento de Língua Natural (PLN);
+- Linha 6-vermelha: Visualização de dados;
+- Linha 7-rosa: *Big Data*;
+- Linha 8-esmeralda: Ingestão de dados;
+- Linha 9-lilás:  *Munging* de dados;
+- Linha 10-marrom: Caixa de ferramentas.
+
 Considere este repositório como uma referência em português para o assunto. Não é intuito dos autores, portanto, impor uma ordem direta e fixa de estudos/domínio de conhecimento.
 
-Cada seção do índice ("linha de trem" do mapa) mostrada a seguir estará *linkada* às pastas do diretório à medida que novos conteúdos forem adicionados. Cada pasta possui uma explicação de cada "linha de trem" da imagem original e código. Por exemplo, a seção 1 (linha 1-lilás), tem todo o seu conteúdo explicado na pasta "01_Fundamentos", bem como código para cada tópico (estação de trem) de Fundamentos.
+Cada seção do índice ("linha de trem" do mapa) mostrada a seguir estará *linkada* às pastas do diretório à medida que novos conteúdos forem adicionados. Cada pasta possui uma explicação de cada "linha de trem" da imagem original e código. Por exemplo, a seção 1 (linha 1-roxa), tem todo o seu conteúdo explicado na pasta "01_Fundamentos", bem como código para cada tópico (estação de trem) de Fundamentos.
 
 ## 2. Observações
 
@@ -23,6 +36,8 @@ Cada seção do índice ("linha de trem" do mapa) mostrada a seguir estará *lin
 - Note que a linha 6-vermelha não está conectada à nenhuma outra linha. Trata-se do conhecimento de visualização de dados, necessário para apresentar informações importantes durante o trabalho do cientista de dados. (Há casos em que a responsabilidade da visualização dos dados fica a cargo do analista de dados.) Note, também, que a visualização corresponde a 40% do conhecimento de um cientista de dados.
 
 - A linha-7 rosa também está representada de maneira independente. Note, neste caso, que *big data* é uma área muito grande que até mesmo extrapola o conhecimento necessário para um cientista de dados. Por exemplo, engenheiros de dados realizam *ETL* (extração, transformação e carregamento) sobre dados do universo *big data*. Dessa forma, veja que, ao concluir esta etapa, o aspirante a cientista de dados obtém estimados 60% do conhecimento necessário. *Nota deste autor: obtenha o conhecimento básico sobre as estações dessa linha. Cada estação corresponde a assuntos muito vastos que escapam do conhecimento de um cientista de dados, atingindo o espectro do conhecimento de um engenheiro de dados.*
+
+- As linhas 8-esmeralda e 9-lilás possuem uma baldeação entre si. Ambas as linhas se referem a processos importantes relacionados à manipulação de dados.
 
 ## 3. Compartilhamento do Repositório
 
@@ -185,6 +200,10 @@ Sinta-se à vontade para baixar o conteúdo deste rep. e/ou contribuir com este 
     18. HDFS (Sistema de Arquivos Distribuído do Hadoop)
     19. Componentes do Hadoop
     20. Fundamentos de MapReduce
+8. Ingestão de dados (80%)
+    1. Resumo sobre formatos de dados
+    2. Descoberta de dados
+    3. 
 
 
 
