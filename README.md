@@ -11,7 +11,7 @@ O *roadmap* em questão mostra os conhecimentos que um cientista de dados deve d
 
 Considere este repositório como uma referência em português para o assunto. Não é intuito dos autores, portanto, impor uma ordem correta e fixa de estudos/domínio de conhecimento.
 
-Cada tópico do índice mostrado a seguir está organizado em pastas. Cada pasta possui uma explicação de cada "linha de trem" da imagem original e código. Por exemplo, a linha 1, lilás, tem todo o seu conteúdo explicado na pasta "01_Fundamentos", bem como código para cada subtópico de Fundamentos.
+Cada tópico do índice mostrado a seguir estará *linkado* com as pastas do diretório à medida que novos conteúdo forem adicionados. Cada pasta possui uma explicação de cada "linha de trem" da imagem original e código. Por exemplo, a linha 1, lilás, tem todo o seu conteúdo explicado na pasta "01_Fundamentos", bem como código para cada subtópico de Fundamentos.
 
 ## Índice
 
