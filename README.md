@@ -1,4 +1,4 @@
-# DS_RoadMap
+# Roteiro do aspirante a cientista de dados
 
 ## 1. Definições Preliminares
 Este é um repositório de código para os principais conhecimentos concernentes à área de ciência de dados. O seu conteúdo é baseado em duas principais referências:
